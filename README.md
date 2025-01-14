@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently learning about IoT, domains, .NET APIs and more via small projects<br>Current Meng Software student
+Im currently learning about IoT, domains, .NET APIs and more via small projects<br>Current Beng Software student
 
 
 # 💻 Tech Stack:
