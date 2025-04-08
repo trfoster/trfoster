@@ -1,5 +1,7 @@
 # 💫 About Me:
-Im currently learning about IoT, domains, .NET APIs and more via small projects<br>Current Beng Software student
+Project lead of Project pixel https://projectpixel.uk
+Current Beng Software engineering student at University of Sheffield
+Currently learning about Linux, domains, .NET APIs and more via small projects
 
 
 # 💻 Tech Stack:
