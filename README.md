@@ -1,6 +1,6 @@
 # 💫 About Me:
-Project lead of Project pixel https://projectpixel.uk
-Current Beng Software engineering student at University of Sheffield
+Project lead of Project pixel https://projectpixel.uk <br>
+Current Beng Software engineering student at University of Sheffield <br>
 Currently learning about Linux, domains, .NET APIs and more via small projects
 
 
